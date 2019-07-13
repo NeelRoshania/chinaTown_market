@@ -1,3 +1,7 @@
+import requests
+from time import sleep
+import numpy as np
+
 def nbs(gapi, placeID, restaurants, rating, priceLevel, address, lat, lng, reviews):
 
     # nearbysearch assume 100 meter radius
