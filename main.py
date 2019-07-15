@@ -64,6 +64,6 @@ for country in ["san fransisco", "boston", "los angeles", "new york"]:
             "lat":lat, "lng":lng}
 
     dfts = pd.DataFrame(data=data_ts)
-    dfts.to_excel("{}_chinatown.xlsx".format(country))
+    dfts.to_csv("{}_chinatown.csv".format(country).replace(" ",""))
     # print(len(data_ts["Name"]), len(data_ts["Rating"]), len(data_ts["Reviews"]), len(data_ts["PriceLevel"]), len(data_ts["Address"]), len(data_ts["placeId"]))
 

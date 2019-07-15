@@ -1,0 +1,295 @@
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=restaurants%20in%20chinatown%20san%20fransisco&location=42.3500641,-71.0624052&radius=50000&type=restaurant&&key=AIzaSyDl-b0qd8yXxpTmUrW1rSFtZQHvbaYBGNw
+Starting textsearch...
+- ts page 0
+	- Total places: 0
+ - nbs next_page_token not found in 11, response: OK
+ - nbs next_page_token not found in 15, response: OK
+ - nbs next_page_token not found in 18, response: OK
+- ts page 1
+	- Total places: 78
+ - nbs next_page_token not found in 11, response: OK
+ - nbs next_page_token not found in 15, response: OK
+ - nbs next_page_token not found in 18, response: OK
+ - nbs next_page_token not found in 50, response: OK
+ - nbs next_page_token not found in 58, response: OK
+ - nbs next_page_token not found in 60, response: OK
+ - nbs next_page_token not found in 62, response: OK
+ - nbs next_page_token not found in 63, response: OK
+ - nbs next_page_token not found in 77, response: OK
+ - nbs next_page_token not found in 78, response: OK
+ - nbs next_page_token not found in 80, response: OK
+ - nbs next_page_token not found in 81, response: OK
+ - nbs next_page_token not found in 83, response: OK
+- ts page 2
+	- Total places: 89
+ - nbs next_page_token not found in 11, response: OK
+ - nbs next_page_token not found in 15, response: OK
+ - nbs next_page_token not found in 18, response: OK
+ - nbs next_page_token not found in 50, response: OK
+ - nbs next_page_token not found in 58, response: OK
+ - nbs next_page_token not found in 60, response: OK
+ - nbs next_page_token not found in 62, response: OK
+ - nbs next_page_token not found in 63, response: OK
+ - nbs next_page_token not found in 77, response: OK
+ - nbs next_page_token not found in 78, response: OK
+ - nbs next_page_token not found in 80, response: OK
+ - nbs next_page_token not found in 81, response: OK
+ - nbs next_page_token not found in 83, response: OK
+ - nbs next_page_token not found in 87, response: OK
+ - nbs next_page_token not found in 90, response: OK
+ - nbs next_page_token not found in 91, response: OK
+ - nbs next_page_token not found in 92, response: OK
+ - ts next_page_token not found in 2, response: OK
+text search scraping done...!
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=restaurants%20in%20chinatown%20boston&location=42.3500641,-71.0624052&radius=50000&type=restaurant&&key=AIzaSyDl-b0qd8yXxpTmUrW1rSFtZQHvbaYBGNw
+Starting textsearch...
+- ts page 0
+	- Total places: 96
+ - nbs next_page_token not found in 11, response: OK
+ - nbs next_page_token not found in 15, response: OK
+ - nbs next_page_token not found in 18, response: OK
+ - nbs next_page_token not found in 50, response: OK
+ - nbs next_page_token not found in 58, response: OK
+ - nbs next_page_token not found in 60, response: OK
+ - nbs next_page_token not found in 62, response: OK
+ - nbs next_page_token not found in 63, response: OK
+ - nbs next_page_token not found in 77, response: OK
+ - nbs next_page_token not found in 78, response: OK
+ - nbs next_page_token not found in 80, response: OK
+ - nbs next_page_token not found in 81, response: OK
+ - nbs next_page_token not found in 83, response: OK
+ - nbs next_page_token not found in 87, response: OK
+ - nbs next_page_token not found in 90, response: OK
+ - nbs next_page_token not found in 91, response: OK
+ - nbs next_page_token not found in 92, response: OK
+ - nbs next_page_token not found in 97, response: OK
+- ts page 1
+	- Total places: 152
+ - nbs next_page_token not found in 11, response: OK
+ - nbs next_page_token not found in 15, response: OK
+ - nbs next_page_token not found in 18, response: OK
+ - nbs next_page_token not found in 50, response: OK
+ - nbs next_page_token not found in 58, response: OK
+ - nbs next_page_token not found in 60, response: OK
+ - nbs next_page_token not found in 62, response: OK
+ - nbs next_page_token not found in 63, response: OK
+ - nbs next_page_token not found in 77, response: OK
+ - nbs next_page_token not found in 78, response: OK
+ - nbs next_page_token not found in 80, response: OK
+ - nbs next_page_token not found in 81, response: OK
+ - nbs next_page_token not found in 83, response: OK
+ - nbs next_page_token not found in 87, response: OK
+ - nbs next_page_token not found in 90, response: OK
+ - nbs next_page_token not found in 91, response: OK
+ - nbs next_page_token not found in 92, response: OK
+ - nbs next_page_token not found in 97, response: OK
+- ts page 2
+	- Total places: 165
+ - nbs next_page_token not found in 11, response: OK
+ - nbs next_page_token not found in 15, response: OK
+ - nbs next_page_token not found in 18, response: OK
+ - nbs next_page_token not found in 50, response: OK
+ - nbs next_page_token not found in 58, response: OK
+ - nbs next_page_token not found in 60, response: OK
+ - nbs next_page_token not found in 62, response: OK
+ - nbs next_page_token not found in 77, response: OK
+ - nbs next_page_token not found in 78, response: OK
+ - nbs next_page_token not found in 80, response: OK
+ - nbs next_page_token not found in 81, response: OK
+ - nbs next_page_token not found in 83, response: OK
+ - nbs next_page_token not found in 87, response: OK
+ - nbs next_page_token not found in 90, response: OK
+ - nbs next_page_token not found in 91, response: OK
+ - nbs next_page_token not found in 92, response: OK
+ - nbs next_page_token not found in 97, response: OK
+ - nbs next_page_token not found in 157, response: OK
+ - nbs next_page_token not found in 165, response: OK
+ - nbs next_page_token not found in 166, response: OK
+ - nbs next_page_token not found in 168, response: OK
+ - ts next_page_token not found in 2, response: OK
+text search scraping done...!
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=restaurants%20in%20chinatown%20los%20angeles&location=42.3500641,-71.0624052&radius=50000&type=restaurant&&key=AIzaSyDl-b0qd8yXxpTmUrW1rSFtZQHvbaYBGNw
+Starting textsearch...
+- ts page 0
+	- Total places: 180
+ - nbs next_page_token not found in 11, response: OK
+ - nbs next_page_token not found in 15, response: OK
+ - nbs next_page_token not found in 18, response: OK
+ - nbs next_page_token not found in 50, response: OK
+ - nbs next_page_token not found in 58, response: OK
+ - nbs next_page_token not found in 60, response: OK
+ - nbs next_page_token not found in 62, response: OK
+ - nbs next_page_token not found in 63, response: OK
+ - nbs next_page_token not found in 77, response: OK
+ - nbs next_page_token not found in 78, response: OK
+ - nbs next_page_token not found in 80, response: OK
+ - nbs next_page_token not found in 81, response: OK
+ - nbs next_page_token not found in 83, response: OK
+ - nbs next_page_token not found in 87, response: OK
+ - nbs next_page_token not found in 90, response: OK
+ - nbs next_page_token not found in 91, response: OK
+ - nbs next_page_token not found in 92, response: OK
+ - nbs next_page_token not found in 97, response: OK
+ - nbs next_page_token not found in 157, response: OK
+ - nbs next_page_token not found in 165, response: OK
+ - nbs next_page_token not found in 166, response: OK
+ - nbs next_page_token not found in 168, response: OK
+ - nbs next_page_token not found in 172, response: OK
+ - nbs next_page_token not found in 175, response: OK
+ - nbs next_page_token not found in 183, response: OK
+ - nbs next_page_token not found in 185, response: OK
+ - nbs next_page_token not found in 186, response: OK
+ - nbs next_page_token not found in 187, response: OK
+ - nbs next_page_token not found in 189, response: OK
+ - nbs next_page_token not found in 193, response: OK
+ - nbs next_page_token not found in 195, response: OK
+ - nbs next_page_token not found in 196, response: OK
+- ts page 1
+	- Total places: 243
+ - nbs next_page_token not found in 11, response: OK
+ - nbs next_page_token not found in 15, response: OK
+ - nbs next_page_token not found in 18, response: OK
+ - nbs next_page_token not found in 50, response: OK
+ - nbs next_page_token not found in 58, response: OK
+ - nbs next_page_token not found in 60, response: OK
+ - nbs next_page_token not found in 62, response: OK
+ - nbs next_page_token not found in 63, response: OK
+ - nbs next_page_token not found in 77, response: OK
+ - nbs next_page_token not found in 78, response: OK
+ - nbs next_page_token not found in 80, response: OK
+ - nbs next_page_token not found in 81, response: OK
+ - nbs next_page_token not found in 83, response: OK
+ - nbs next_page_token not found in 87, response: OK
+ - nbs next_page_token not found in 90, response: OK
+ - nbs next_page_token not found in 91, response: OK
+ - nbs next_page_token not found in 92, response: OK
+ - nbs next_page_token not found in 97, response: OK
+ - nbs next_page_token not found in 157, response: OK
+ - nbs next_page_token not found in 165, response: OK
+ - nbs next_page_token not found in 166, response: OK
+ - nbs next_page_token not found in 168, response: OK
+ - nbs next_page_token not found in 172, response: OK
+ - nbs next_page_token not found in 175, response: OK
+ - nbs next_page_token not found in 183, response: OK
+ - nbs next_page_token not found in 185, response: OK
+ - nbs next_page_token not found in 186, response: OK
+ - nbs next_page_token not found in 187, response: OK
+ - nbs next_page_token not found in 189, response: OK
+ - nbs next_page_token not found in 190, response: OK
+ - nbs next_page_token not found in 193, response: OK
+ - nbs next_page_token not found in 195, response: OK
+ - nbs next_page_token not found in 196, response: OK
+ - nbs next_page_token not found in 206, response: OK
+ - nbs next_page_token not found in 209, response: OK
+ - nbs next_page_token not found in 222, response: OK
+ - nbs next_page_token not found in 228, response: OK
+ - nbs next_page_token not found in 232, response: OK
+ - nbs next_page_token not found in 235, response: OK
+ - nbs next_page_token not found in 238, response: OK
+ - nbs next_page_token not found in 239, response: OK
+ - nbs next_page_token not found in 240, response: OK
+ - nbs next_page_token not found in 242, response: OK
+ - nbs next_page_token not found in 243, response: OK
+ - nbs next_page_token not found in 244, response: OK
+ - nbs next_page_token not found in 245, response: OK
+- ts page 2
+	- Total places: 251
+ - nbs next_page_token not found in 15, response: OK
+ - nbs next_page_token not found in 18, response: OK
+ - nbs next_page_token not found in 50, response: OK
+ - nbs next_page_token not found in 60, response: OK
+ - nbs next_page_token not found in 62, response: OK
+ - nbs next_page_token not found in 63, response: OK
+ - nbs next_page_token not found in 77, response: OK
+ - nbs next_page_token not found in 78, response: OK
+ - nbs next_page_token not found in 80, response: OK
+ - nbs next_page_token not found in 81, response: OK
+ - nbs next_page_token not found in 83, response: OK
+ - nbs next_page_token not found in 87, response: OK
+ - nbs next_page_token not found in 90, response: OK
+ - nbs next_page_token not found in 91, response: OK
+ - nbs next_page_token not found in 92, response: OK
+ - nbs next_page_token not found in 97, response: OK
+ - nbs next_page_token not found in 157, response: OK
+ - nbs next_page_token not found in 165, response: OK
+ - nbs next_page_token not found in 166, response: OK
+ - nbs next_page_token not found in 168, response: OK
+ - nbs next_page_token not found in 172, response: OK
+ - nbs next_page_token not found in 175, response: OK
+ - nbs next_page_token not found in 183, response: OK
+ - nbs next_page_token not found in 185, response: OK
+ - nbs next_page_token not found in 186, response: OK
+ - nbs next_page_token not found in 187, response: OK
+ - nbs next_page_token not found in 189, response: OK
+ - nbs next_page_token not found in 190, response: OK
+ - nbs next_page_token not found in 193, response: OK
+ - nbs next_page_token not found in 195, response: OK
+ - nbs next_page_token not found in 196, response: OK
+ - nbs next_page_token not found in 206, response: OK
+ - nbs next_page_token not found in 222, response: OK
+ - nbs next_page_token not found in 228, response: OK
+ - nbs next_page_token not found in 232, response: OK
+ - nbs next_page_token not found in 235, response: OK
+ - nbs next_page_token not found in 238, response: OK
+ - nbs next_page_token not found in 239, response: OK
+ - nbs next_page_token not found in 240, response: OK
+ - nbs next_page_token not found in 241, response: OK
+ - nbs next_page_token not found in 242, response: OK
+ - nbs next_page_token not found in 243, response: OK
+ - nbs next_page_token not found in 244, response: OK
+ - nbs next_page_token not found in 245, response: OK
+ - nbs next_page_token not found in 246, response: OK
+ - nbs next_page_token not found in 247, response: OK
+ - nbs next_page_token not found in 248, response: OK
+ - nbs next_page_token not found in 249, response: OK
+ - nbs next_page_token not found in 250, response: OK
+ - nbs next_page_token not found in 252, response: OK
+ - nbs next_page_token not found in 253, response: OK
+ - nbs next_page_token not found in 255, response: OK
+ - nbs next_page_token not found in 256, response: OK
+ - nbs next_page_token not found in 257, response: OK
+ - nbs next_page_token not found in 258, response: OK
+ - ts next_page_token not found in 2, response: OK
+text search scraping done...!
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=restaurants%20in%20chinatown%20new%20york&location=42.3500641,-71.0624052&radius=50000&type=restaurant&&key=AIzaSyDl-b0qd8yXxpTmUrW1rSFtZQHvbaYBGNw
+Starting textsearch...
+- ts page 0
+	- Total places: 260
+ - nbs next_page_token not found in 11, response: OK
+ - nbs next_page_token not found in 15, response: OK
+ - nbs next_page_token not found in 18, response: OK
+ - nbs next_page_token not found in 50, response: OK
+ - nbs next_page_token not found in 58, response: OK
+ - nbs next_page_token not found in 60, response: OK
+ - nbs next_page_token not found in 62, response: OK
+ - nbs next_page_token not found in 63, response: OK
+ - nbs next_page_token not found in 77, response: OK
+ - nbs next_page_token not found in 78, response: OK
+ - nbs next_page_token not found in 80, response: OK
+ - nbs next_page_token not found in 81, response: OK
+ - nbs next_page_token not found in 83, response: OK
+ - nbs next_page_token not found in 87, response: OK
+ - nbs next_page_token not found in 90, response: OK
+ - nbs next_page_token not found in 91, response: OK
+ - nbs next_page_token not found in 92, response: OK
+ - nbs next_page_token not found in 97, response: OK
+ - nbs next_page_token not found in 157, response: OK
+ - nbs next_page_token not found in 165, response: OK
+ - nbs next_page_token not found in 166, response: OK
+ - nbs next_page_token not found in 172, response: OK
+ - nbs next_page_token not found in 175, response: OK
+ - nbs next_page_token not found in 183, response: OK
+ - nbs next_page_token not found in 185, response: OK
+ - nbs next_page_token not found in 186, response: OK
+ - nbs next_page_token not found in 187, response: OK
+ - nbs next_page_token not found in 189, response: OK
+ - nbs next_page_token not found in 190, response: OK
+ - nbs next_page_token not found in 193, response: OK
+ - nbs next_page_token not found in 195, response: OK
+ - nbs next_page_token not found in 196, response: OK
+ - nbs next_page_token not found in 199, response: OK
+ - nbs next_page_token not found in 206, response: OK
+ - nbs next_page_token not found in 209, response: OK
+ - nbs next_page_token not found in 212, response: OK
+ - nbs next_page_token not found in 215, response: OK
+ - nbs next_page_token not found in 218, response: OK
